@@ -1,58 +1,118 @@
-city,lat,lng,country,iso2,admin_name,capital,population,population_proper
-Manila,14.5958,120.9772,Philippines,PH,Manila,primary,24922000,1780148
-Quezon City,14.6500,121.0475,Philippines,PH,Quezon,admin,2960048,2960048
-Zamboanga City,6.9042,122.0761,Philippines,PH,Zamboanga,admin,2100000,977234
-Davao,7.0700,125.6000,Philippines,PH,Davao,admin,1776949,1776949
-Caloocan City,14.6500,120.9700,Philippines,PH,Caloocan,admin,1661584,1661584
-Canagatan,18.0000,121.8000,Philippines,PH,Cagayan,,1273219,1273219
-Taguig City,14.5200,121.0500,Philippines,PH,Taguig,admin,886722,886722
-Pasig City,14.5605,121.0765,Philippines,PH,Pasig,admin,803159,803159
-Valenzuela,14.7000,120.9800,Philippines,PH,Valenzuela,admin,714978,714978
-City of Parañaque,14.5008,120.9915,Philippines,PH,Parañaque,admin,689992,689992
-Bacoor,14.4624,120.9645,Philippines,PH,Cavite,,664625,664625
-Tondo,14.6170,120.9670,Philippines,PH,Manila,,654220,654220
-Las Piñas City,14.4500,120.9800,Philippines,PH,Las Piñas,,606293,606293
-Pasay City,14.5500,121.0000,Philippines,PH,Pasay,admin,440656,440656
-Mandaluyong City,14.5800,121.0300,Philippines,PH,Mandaluyong,admin,425758,425758
-Sampaloc,14.6031,121.0022,Philippines,PH,Manila,,388305,388305
-Malabon,14.6600,120.9600,Philippines,PH,Malabon,admin,380522,380522
-San Pedro,14.3583,121.0583,Philippines,PH,Laguna,,326001,326001
-Navotas,14.6667,120.9417,Philippines,PH,Navotas,admin,247543,247543
-Santa Ana,14.5800,121.0120,Philippines,PH,Manila,,203598,203598
-General Mariano Alvarez,14.3000,121.0000,Philippines,PH,Cavite,,172433,172433
-Payatas,14.7099,121.0997,Philippines,PH,Quezon,,139740,139740
-San Andres,14.5739,121.0039,Philippines,PH,Rizal,,133727,133727
-Santa Cruz,14.5998,120.9802,Philippines,PH,Manila,,126735,126735
-San Juan,14.6040,121.0300,Philippines,PH,San Juan,admin,126347,126347
-Poblacion,14.3854,121.0290,Philippines,PH,Muntinlupa,,120115,120115
-Santamesa,14.6000,121.0167,Philippines,PH,Manila,,111292,111292
-Rosario,14.4200,120.8500,Philippines,PH,Cavite,,110807,110807
-Bagong Silangan,14.7094,121.1000,Philippines,PH,Quezon,,106886,106886
-Putatan,14.3984,121.0364,Philippines,PH,Muntinlupa,,99725,99725
-Malate,14.5642,120.9913,Philippines,PH,Manila,,99257,99257
-Western Bicutan,14.5094,121.0381,Philippines,PH,Taguig,,87508,87508
-Pandacan,14.5940,121.0070,Philippines,PH,Manila,,84769,84769
-Banco Filipino International Village,14.4499,120.9996,Philippines,PH,Las Piñas,,81739,81739
-Paco,14.5830,120.9830,Philippines,PH,Manila,,79839,79839
-San Isidro,14.4685,121.0118,Philippines,PH,Parañaque,,79372,79372
-San Antonio,14.4656,121.0311,Philippines,PH,Parañaque,,70134,70134
-Pateros,14.5448,121.0671,Philippines,PH,Rizal,,65227,65227
-Sucat,14.4600,121.0500,Philippines,PH,Muntinlupa,,56354,56354
-Lower Bicutan,14.5033,121.0642,Philippines,PH,Taguig,,55928,55928
-Tatalon,14.6242,121.0153,Philippines,PH,Quezon,,55404,55404
-Don Bosco,14.4817,121.0258,Philippines,PH,Parañaque,,54188,54188
-Bignay,14.7456,120.9961,Philippines,PH,Caloocan,,49716,49716
-Bagumbayan,14.4744,121.0569,Philippines,PH,Taguig,,49319,49319
-Upper Bicutan,14.4873,121.0503,Philippines,PH,Taguig,,44592,44592
-Central Signal Village,14.5106,121.0576,Philippines,PH,Taguig,,44126,44126
-Marikina Heights,14.6534,121.1187,Philippines,PH,Marikina,,40967,40967
-Bayanan,14.4078,121.0500,Philippines,PH,Muntinlupa,,39150,39150
-Karuhatan,14.6883,120.9761,Philippines,PH,Valenzuela,,37748,37748
-Bel-Air,14.5639,121.0263,Philippines,PH,Makati,,36007,36007
-Pansol,14.6514,121.0800,Philippines,PH,Quezon,,35254,35254
-Baclaran,14.5319,120.9942,Philippines,PH,Parañaque,,33850,33850
-Quiapo,14.6000,120.9830,Philippines,PH,Manila,,29846,29846
-West Rembo,14.5667,121.0667,Philippines,PH,Makati,,29649,29649
-Bagong Pag-Asa,14.6622,121.0331,Philippines,PH,Quezon,,29389,29389
-Santo Niño,14.5033,121.0031,Philippines,PH,Parañaque,,28925,28925
-Pinyahan,14.6400,121.0461,Philippines,PH,Quezon,,28129,28129
+province_id,region_id,code,description,
+1,1,012800000,Ilocos Norte,
+2,1,012900000,Ilocos Sur,
+3,1,013300000,La Union,
+4,1,015500000,Pangasinan,
+5,2,020900000,Batanes,
+6,2,021500000,Cagayan,
+7,2,023100000,Isabela,
+8,2,025000000,Nueva Vizcaya,
+9,2,025700000,Quirino,
+10,3,037700000,Aurora,
+11,3,030800000,Bataan,
+12,3,031400000,Bulacan,
+13,3,034900000,Nueva Ecija,
+14,3,035400000,Pampanga,
+15,3,035401000,Angeles City,
+16,3,036900000,Tarlac,
+17,3,037100000,Zambales,
+18,3,037107000,Olongapo City,
+19,4,041000000,Batangas,
+20,4,042100000,Cavite,
+21,4,043400000,Laguna,
+22,4,045600000,Quezon,
+23,4,045624000,Lucena City,
+24,4,045800000,Rizal,
+25,5,050500000,Albay,
+26,5,051600000,Camarines Norte,
+27,5,051700000,Camarines Sur,
+28,5,052000000,Catanduanes,
+29,5,054100000,Masbate,
+30,5,056200000,Sorsogon,
+31,6,060400000,Aklan,
+32,6,060600000,Antique,
+33,6,061900000,Capiz,
+34,6,064500000,Negros Occidental,
+35,6,064501000,Bacolod City (Capital),
+36,6,067900000,Guimaras,
+37,6,063000000,Iloilo,
+38,6,063022000,Iloilo City (Capital),
+39,7,071200000,Bohol,
+40,7,072200000,Cebu,
+41,7,072217000,Cebu City (Capital),
+42,7,072226000,Lapu-lapu City (Opon),
+43,7,072230000,Mandaue City ,
+44,7,074600000,Negros Oriental,
+45,7,076100000,Siquijor,
+46,8,087800000,Biliran,
+47,8,082600000,Eastern Samar,
+48,8,083700000,Leyte,
+49,8,083747000,Tacloban City,
+50,8,084800000,Northern Samar,
+51,8,086400000,Southern Leyte,
+52,8,086000000,Samar (Western Samar),
+53,9,097200000,Zamboanga del Norte,
+54,9,097300000,Zamboanga del Sur,
+55,9,097332000,Zamboanga City,
+56,9,098300000,Zamboanga Sibugay,
+57,9,099701000,City of Isabela,
+58,10,101300000,Bukidnon,
+59,10,101800000,Camiguin,
+60,10,103500000,Lanao del Norte,
+61,10,103504000,Iligan City,
+62,10,104200000,Misamis Occidental,
+63,10,104300000,Misamis Oriental,
+64,10,104305000,Cagayan de Oro City (Capital),
+65,11,112300000,Davao del Norte,
+66,11,112400000,Davao del Sur,
+67,11,112402000,Davao City,
+68,11,112500000,Davao Oriental,
+69,11,118200000,Compostela Valley,
+70,11,118600000,Davao Occidental,
+71,12,124700000,North Cotabato,
+72,12,128000000,Sarangani,
+73,12,126300000,South Cotabato,
+74,12,126303000,General Santos City (Dadiangas),
+75,12,126500000,Sultan Kudarat,
+76,12,129804000,Cotabato City,
+77,13,133900000,City of Manila,
+78,13,137401000,City of Mandaluyong,
+79,13,137402000,City of Marikina,
+80,13,137403000,City of Pasig,
+81,13,137404000,Quezon City,
+82,13,137405000,City of San Juan,
+83,13,137501000,Caloocan City,
+84,13,137502000,City of Malabon,
+85,13,137503000,City of Navotas,
+86,13,137504000,City of Valenzuela,
+87,13,137601000,City of Las Piñas,
+88,13,137602000,City of Makati,
+89,13,137603000,City of Muntinlupa,
+90,13,137604000,City of Parañaque,
+91,13,137605000,Pasay City,
+92,13,137606000,Pateros,
+93,13,137607000,Taguig City,
+94,14,140100000,Abra,
+95,14,148100000,Apayao,
+96,14,141100000,Benguet,
+97,14,141102000,Baguio City,
+98,14,142700000,Ifugao,
+99,14,143200000,Kalinga,
+100,14,144400000,Mountain Province,
+101,15,150700000,Basilan,
+102,15,153600000,Lanao del Sur,
+103,15,153800000,Maguindanao,
+104,15,156600000,Sulu,
+105,15,157000000,Tawi-tawi,
+106,16,160200000,Agusan del Norte,
+107,16,160202000,Butuan City (Capital),
+108,16,160300000,Agusan del Sur,
+109,16,166700000,Surigao del Norte,
+110,16,166800000,Surigao del Sur,
+111,16,168500000,Dinagat Islands,
+112,17,174000000,Marinduque,
+113,17,175100000,Occidental Mindoro,
+114,17,175200000,Oriental Mindoro,
+115,17,175300000,Palawan,
+116,17,175316000,Puerto Princesa City (Capital),
+117,17,175900000,Romblon,
