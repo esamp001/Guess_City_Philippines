@@ -9,7 +9,8 @@ screen.addshape(image)
 turtle.shape(image)
 
 text = GuessedText()
+text.get_coordinates_in_csv()
 
 
 
-
+screen.exitonclick()
