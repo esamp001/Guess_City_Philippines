@@ -1,118 +1,100 @@
-Provinces,Coordinates
-Ilocos Norte,"(-53.0, 242.0)"
-Ilocos Sur,"(-57.0, 199.0)"
-La Union,"(-62.0, 181.0)"
-Pangasinan,"(-61.0, 139.0)"
-Batanes,"(3.0, 368.0)"
-Cagayan,"(-3.0, 224.0)"
-Isabela,"(1.0, 204.0)"
-Nueva Vizcaya,"(-21.0, 182.0)"
-Quirino,"(-8.0, 167.0)"
-Aurora,"(-20.0, 140.0)"
-Bataan,"(-61.0, 82.0)"
-Bulacan,"(-42.0, 95.0)"
-Nueva Ecija,"(-36.0, 139.0)"
-Pampanga,"(-48.0, 115.0)"
-Angeles City,"(-44.0, 106.0)"
-Tarlac,"(-47.0, 127.0)"
-Zambales,"(-67.0, 93.0)"
-Olongapo City,"(-46.0, 91.0)"
-Batangas,"(-28.0, 58.0)"
-Cavite,"(-40.0, 73.0)"
-Laguna,"(-23.0, 58.0)"
-Quezon,"(-18.0, 55.0)"
-Lucena City,"(-9.0, 55.0)"
-Rizal,"(-27.0, 86.0)"
-Albay,"(90.0, 23.0)"
-Camarines Norte,"(54.0, 61.0)"
-Camarines Sur,"(68.0, 38.0)"
-Catanduanes,"(115.0, 40.0)"
-Masbate,"(88.0, -19.0)"
-Sorsogon,"(103.0, 10.0)"
-Aklan,"(27.0, -52.0)"
-Antique,"(11.0, -87.0)"
-Capiz,"(44.0, -60.0)"
-Negros Occidental,"(57.0, -97.0)"
-Bacolod City (Capital),"(57.0, -101.0)"
-Guimaras,"(40.0, -101.0)"
-Iloilo,"(33.0, -95.0)"
-Iloilo City (Capital),"(35.0, -95.0)"
-Bohol,"(100.0, -141.0)"
-Cebu,"(99.0, -113.0)"
-Cebu City (Capital),"(99.0, -111.0)"
-Lapu-lapu City (Opon),"(103.0, -111.0)"
-Mandaue City ,"(98.0, -112.0)"
-Negros Oriental,"(62.0, -135.0)"
-Siquijor,"(85.0, -169.0)"
-Biliran,"(127.0, -59.0)"
-Eastern Samar,"(169.0, -47.0)"
-Leyte,"(137.0, -81.0)"
-Tacloban City,"(148.0, -65.0)"
-Northern Samar,"(135.0, -15.0)"
-Southern Leyte,"(152.0, -110.0)"
-Samar (Western Samar),"(139.0, -42.0)"
-Zamboanga del Norte,"(73.0, -201.0)"
-Zamboanga del Sur,"(65.0, -232.0)"
-Zamboanga City,"(16.0, -265.0)"
-Zamboanga Sibugay,"(34.0, -234.0)"
-City of Isabela,"(9.0, -283.0)"
-Bukidnon,"(143.0, -223.0)"
-Camiguin,"(142.0, -168.0)"
-Lanao del Norte,"(90.0, -226.0)"
-Iligan City,"(115.0, -215.0)"
-Misamis Occidental,"(95.0, -207.0)"
-Misamis Oriental,"(124.0, -197.0)"
-Cagayan de Oro City (Capital),"(138.0, -198.0)"
-Davao del Norte,"(191.0, -241.0)"
-Davao del Sur,"(168.0, -273.0)"
-Davao City,"(181.0, -256.0)"
-Davao Oriental,"(203.0, -263.0)"
-Compostela Valley,"(113.0, -239.0)"
-Davao Occidental,"(167.0, -279.0)"
-North Cotabato,"(152.0, -264.0)"
-Sarangani,"(175.0, -341.0)"
-South Cotabato,"(153.0, -292.0)"
-General Santos City (Dadiangas),"(160.0, -303.0)"
-Sultan Kudarat,"(139.0, -273.0)"
-Cotabato City,"(121.0, -251.0)"
-City of Manila,"(-33.0, 90.0)"
-City of Mandaluyong,"(-22.0, 85.0)"
-City of Marikina,"(-19.0, 94.0)"
-City of Pasig,"(-13.0, 84.0)"
-Quezon City,"(-32.0, 103.0)"
-City of San Juan,"(-22.0, 99.0)"
-Caloocan City,"(-37.0, 100.0)"
-City of Malabon,"(-26.0, 91.0)"
-City of Navotas,"(-33.0, 98.0)"
-City of Valenzuela,"(-27.0, 88.0)"
-City of Las Piñas,"(-35.0, 110.0)"
-City of Makati,"(-34.0, 99.0)"
-City of Muntinlupa,"(-23.0, 91.0)"
-City of Parañaque,"(-34.0, 106.0)"
-Pasay City,"(-43.0, 98.0)"
-Pateros,"(-33.0, 98.0)"
-Taguig City,"(-44.0, 111.0)"
-Abra,"(-43.0, 217.0)"
-Apayao,"(-28.0, 232.0)"
-Benguet,"(-55.0, 112.0)"
-Baguio City,"(-50.0, 110.0)"
-Ifugao,"(-29.0, 180.0)"
-Kalinga,"(-20.0, 214.0)"
-Mountain Province,"(-17.0, 200.0)"
-Basilan,"(8.0, -285.0)"
-Lanao del Sur,"(110.0, -221.0)"
-Maguindanao,"(119.0, -259.0)"
-Sulu,"(-33.0, -314.0)"
-Tawi-tawi,"(94.0, -202.0)"
-Agusan del Norte,"(175.0, -178.0)"
-Butuan City (Capital),"(165.0, -199.0)"
-Agusan del Sur,"(188.0, -175.0)"
-Surigao del Norte,"(181.0, -147.0)"
-Surigao del Sur,"(210.0, -178.0)"
-Dinagat Islands,"(181.0, -119.0)"
-Marinduque,"(7.0, 28.0)"
-Occidental Mindoro,"(-34.0, -17.0)"
-Oriental Mindoro,"(-27.0, 27.0)"
-Palawan,"(-145.0, -134.0)"
-Puerto Princesa City (Capital),"(-137.0, -129.0)"
-Romblon,"(24.0, -10.0)"
+Provinces,x,y
+Ilocos Norte,-53.0, 242.0
+Ilocos Sur,-57.0, 199.0
+La Union,-62.0, 181.0
+Pangasinan,-61.0, 139.0
+Batanes,3.0, 368.0
+Cagayan,-3.0, 224.0
+Isabela,1.0, 204.0
+Nueva Vizcaya,-21.0, 182.0
+Quirino,-8.0, 167.0
+Aurora,-20.0, 140.0
+Bataan,-61.0, 82.0
+Bulacan,-42.0, 95.0
+Nueva Ecija,-36.0, 139.0
+Pampanga,-48.0, 115.0
+Angeles City,-44.0, 106.0
+Tarlac,-47.0, 127.0
+Zambales,-67.0, 93.0
+Olongapo City,-46.0, 91.0
+Batangas,-28.0, 58.0
+Cavite,-40.0, 73.0
+Laguna,-23.0, 58.0
+Quezon,-18.0, 55.0
+Lucena City,-9.0, 55.0
+Rizal,-27.0, 86.0
+Albay,90.0, 23.0
+Camarines Norte,54.0, 61.0
+Camarines Sur,68.0, 38.0
+Catanduanes,115.0, 40.0
+Masbate,88.0, -19.0
+Sorsogon,103.0, 10.0
+Aklan,27.0, -52.0
+Antique,11.0, -87.0
+Capiz,44.0, -60.0
+Negros Occidental,57.0, -97.0
+Bacolod City (Capital),57.0, -101.0
+Guimaras,40.0, -101.0
+Iloilo,33.0, -95.0
+Iloilo City (Capital),35.0, -95.0
+Bohol,100.0, -141.0
+Cebu,99.0, -113.0
+Cebu City (Capital),99.0, -111.0
+Lapu-lapu City (Opon),103.0, -111.0
+Mandaue City ,98.0, -112.0
+Negros Oriental,62.0, -135.0
+Siquijor,85.0, -169.0
+Biliran,127.0, -59.0
+Eastern Samar,169.0, -47.0
+Leyte,137.0, -81.0
+Tacloban City,148.0, -65.0
+Northern Samar,135.0, -15.0
+Southern Leyte,152.0, -110.0
+Samar (Western Samar),139.0, -42.0
+Zamboanga del Norte,73.0, -201.0
+Zamboanga del Sur,65.0, -232.0
+Zamboanga City,16.0, -265.0
+Zamboanga Sibugay,34.0, -234.0
+City of Isabela,9.0, -283.0
+Bukidnon,143.0, -223.0
+Camiguin,142.0, -168.0
+Lanao del Norte,90.0, -226.0
+Iligan City,115.0, -215.0
+Misamis Occidental,95.0, -207.0
+Misamis Oriental,124.0, -197.0
+Cagayan de Oro City (Capital),138.0, -198.0
+Davao del Norte,191.0, -241.0
+Davao del Sur,168.0, -273.0
+Davao City,181.0, -256.0
+Davao Oriental,203.0, -263.0
+Compostela Valley,113.0, -239.0
+Davao Occidental,167.0, -279.0
+North Cotabato,152.0, -264.0
+Sarangani,175.0, -341.0
+South Cotabato,153.0, -292.0
+General Santos City (Dadiangas),160.0, -303.0
+Sultan Kudarat,139.0, -273.0
+Abra,-43.0, 217.0
+Apayao,-28.0, 232.0
+Benguet,-55.0, 112.0
+Baguio City,-50.0, 110.0
+Ifugao,-29.0, 180.0
+Kalinga,-20.0, 214.0
+Mountain Province,-17.0, 200.0
+Basilan,8.0, -285.0
+Lanao del Sur,110.0, -221.0
+Maguindanao,119.0, -259.0
+Sulu,-33.0, -314.0
+Tawi-tawi,94.0, -202.0
+Agusan del Norte,175.0, -178.0
+Butuan City (Capital),165.0, -199.0
+Agusan del Sur,188.0, -175.0
+Surigao del Norte,181.0, -147.0
+Surigao del Sur,210.0, -178.0
+Dinagat Islands,181.0, -119.0
+Marinduque,7.0, 28.0
+Occidental Mindoro,-34.0, -17.0
+Oriental Mindoro,-27.0, 27.0
+Palawan,-145.0, -134.0
+Puerto Princesa City (Capital),-137.0, -129.0
+Romblon,24.0, -10.0
